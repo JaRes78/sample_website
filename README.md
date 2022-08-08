@@ -1,1 +1,1 @@
-This is a sample website created by following the splendid guidance in the Learn Enough series. This website is from <em>Learn Enough HTML to Be Dangerous</em> tutorial.
+This is a sample website created by following the splendid guidance in the <a href="https://www.learnenough.com">Learn Enough</a> series. This website is from <em>Learn Enough HTML to Be Dangerous&#8482;</em> tutorial.
